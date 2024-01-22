@@ -1,0 +1,18 @@
+{
+  "name": "full-backend-nodejs",
+  "version": "1.0.0",
+  "description": "Le Nguyen Xuan Duoc hoc backend-nodejs",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node sever.js"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Le Nguyen Xuan Duoc",
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
